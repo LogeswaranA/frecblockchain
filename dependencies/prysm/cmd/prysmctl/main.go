@@ -8,7 +8,7 @@ import (
 	"github.com/prysmaticlabs/prysm/v4/cmd/prysmctl/deprecated"
 	"github.com/prysmaticlabs/prysm/v4/cmd/prysmctl/p2p"
 	"github.com/prysmaticlabs/prysm/v4/cmd/prysmctl/testnet"
-	"github.com/LogeswaranA/prysm/v4/cmd/prysmctl/frecmain"
+	"github.com/LogeswaranA/frecblockchain/prysm/v4/cmd/prysmctl/frecmain"
 	"github.com/prysmaticlabs/prysm/v4/cmd/prysmctl/validator"
 	"github.com/prysmaticlabs/prysm/v4/cmd/prysmctl/weaksubjectivity"
 	log "github.com/sirupsen/logrus"
